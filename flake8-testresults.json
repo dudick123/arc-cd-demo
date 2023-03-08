@@ -1,0 +1,1 @@
+{"./.pipelines/utils/markdownlint2junitxml.py": [], "./.pipelines/utils/kubescore2junitxml.py": [], "./.pipelines/utils/yamllint2junitxml.py": [], "./.pipelines/utils/hadolint2junitxml.py": [], "./.pipelines/utils/flake8json2junitxml.py": [], "./azure-vote/src/azure-vote-front/main.py": []}
